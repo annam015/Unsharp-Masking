@@ -33,3 +33,7 @@ Upon running, the script will display both the original and the unsharp masked i
 ## Understanding the Code
 
 The `unsharpMasking.m` script applies a sharpening filter to the image, enhancing its clarity and detail. The script is easily adjustable, allowing for experimentation with different levels of sharpness.
+
+### Screenshot
+
+![unsharp_masking](https://github.com/annam015/Unsharp-Masking/assets/92727258/a7b059cc-8c1b-4f48-8b0a-bdd061f7bb95)
